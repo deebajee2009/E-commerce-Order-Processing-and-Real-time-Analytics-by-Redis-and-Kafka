@@ -1,1 +1,1 @@
-# E-commerce-Order-Processing-and-Real-time-Analytics-by-Redis-and-Kafka
+# E-commerce Order Processing and Real-time-Analytics by Redis and Kafka
